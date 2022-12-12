@@ -1,0 +1,299 @@
+.text {
+    margin-top: 50px;
+    margin-left: 470px;
+    
+}
+.text button{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.text:hover button{
+    background-color: chartreuse;
+    color: black;
+}
+
+.navigation{
+     float: right;
+     margin-right: 10px;
+     margin-top: 40px;
+}
+.navigation a{
+    margin: 10px;
+    color: black;
+}
+.navigation:hover a {
+    
+    color:red;
+}
+.home img{
+    height: 100px;
+    width: 200px;
+
+}
+
+
+.image img{
+    height: 500px;
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+.heding h1{
+    
+    position: absolute;
+    margin-top: -400px;
+    margin-left: 180px;
+    font-size: 80px;
+    font-weight: bold;
+    color: rgb(red, green, blue);
+
+}
+.heding button{
+    height: 40px;
+    width: 150px;
+    margin-left: 500px;
+    margin-top: -80px;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+    font-size: 20px;
+    position: absolute;
+}
+.heding:hover button{
+    background-color: yellow;
+    color: black;
+}
+
+.first {
+   
+    margin-top: 10px;
+    
+}
+.first h1{
+    
+     font-size: 50px;
+     color: black;
+
+}
+.first p{
+    color: black;
+    font-style: italic;
+}
+.first img{
+    margin: 10px;
+    
+}
+.second {
+   
+    margin-top: 15px;
+}
+.second h1{
+    
+    font-size: 50px;
+    color: black;
+
+}
+.second p{
+   color: black;
+   font-style: italic;
+}
+.second img{
+   margin: 10px;
+}
+.third {
+   
+    margin-top: 15px;
+}
+.third h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.third p{
+   color: black;
+   font-style: italic;
+}
+.third img{
+   margin: 10px;
+}
+.forth {
+   
+    margin-top: 15px;
+}
+.forth h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.forth p{
+   color: black;
+   font-style: italic;
+}
+.forth img{
+   margin: 10px;
+}
+.fifth {
+   
+    margin-top: 15px;
+}
+.fifth h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.fifth p{
+   color: black;
+   font-style: italic;
+}
+.fifth img{
+   margin: 10px;
+}
+.sixth {
+   
+    margin-top: 15px;
+}
+.sixth h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.sixth p{
+   color: black;
+   font-style: italic;
+}
+.sixth img{
+   margin: 10px;
+}
+.seventh {
+   
+    margin-top: 15px;
+}
+.seventh h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.seventh p{
+   color: black;
+   font-style: italic;
+}
+.seventh img{
+   margin: 10px;
+}
+.eighth {
+   
+    margin-top: 15px;
+}
+.eighth h1{
+    
+    font-size: 40px;
+    color: black;
+
+}
+.eighth p{
+   color: black;
+   font-style: italic;
+}
+.eighth img{
+   margin: 10px;
+}
+.info img{
+    margin-top: 20px;
+}
+.info h1{
+    font-style: italic;
+}
+.footer{
+    background-color: rgba(0, 0, 0, 0.733);
+    height: 400px;
+    width: 100%;
+}  
+.footer h1{
+    font-size: 20px;
+    color: rgb(133, 76, 3);
+    font-style: italic;
+    margin-left: 70px;
+    margin-top: 20px;
+    position: absolute;
+
+}
+.footer p{
+    font-size: 10px;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 50px;
+    color: aliceblue;
+}
+.contect h1{
+     font-size: 20px;
+     color: rgb(133, 76, 3);
+     font-style: italic;
+     margin-left: 70px;
+     margin-top: -250px;
+}
+.contect p{
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 50px;
+    color: aliceblue;
+}
+.link h1{
+    font-size: 20px;
+    color: rgb(133, 76, 3);
+    font-style: italic;
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -160px;
+}
+.link p{
+    position: absolute;
+    margin-left: 1150px;
+    margin-top: -130px;
+    color: aliceblue;
+}
+.subscribe h1{
+    font-size: 20px;
+    color: rgb(133, 76, 3);
+    font-style: italic;
+    position: absolute;
+    margin-left: 1120px;
+    margin-top: -40px;
+}
+.subscribe p{
+    position: absolute;
+    
+    margin-top: 50px;
+}
+   
+   .sub {
+    margin-left: 1060px;
+    margin-top: -10px;
+   }
+   .sub button{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+   }
+   .sub:hover button{
+    background-color: yellow;
+    color: black;
+   }
+   .fa {
+    text-align: center;
+    margin-left: 530px;
+    margin-top: 80px;
+    color:white;
+
+   }
+   .fa p{
+    font-size: 10px;
+    color: black;
+   } 
+   
